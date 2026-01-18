@@ -86,6 +86,6 @@ My work focuses on analyzing high-throughput sequencing data, integrating wet-la
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/ibraheemmustafaaly
-- GitHub: https://github.com/IbraheemMustafa7
+- GitHub: https://github.com/IbraheemMustafaAly
 - Facebook: https://www.facebook.com/IbraheemMustafa11
 - Email: ibraheemmustafa52@gmail.com
