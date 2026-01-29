@@ -39,11 +39,11 @@ My work focuses on analyzing high-throughput sequencing data, integrating wet-la
 - Assessed model performance using ROC curves, AUC, F1-score, and feature importance analysis.
 - Extended previously published work by incorporating additional computational and predictive analyses.  ---  
 ## 📂 Highlighted Repositories 
-- **MetagenomicswithAI**
+**MetagenomicswithAI**
 - Bio Hackathon (SOLE) project
-- **Bioinformatics-Roadmap**
+**Bioinformatics-Roadmap**
 - Structured learning and workflow guide
-- **NGS Pipelines**
+**NGS Pipelines**
 - QC, trimming, alignment, and mapping workflows (service-based)  ---  
 ## 🛠 Tools & Technologies
 - **Languages:** Python, R, Bash
