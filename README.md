@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ibraheem Mustafa  
 🎓 MSc Student in Bioinformatics (Metagenomics)
-🧬 Research Assistant | Bioinformatics & Molecular Biology | Field Application Specialist - LifeTech Co. 📍 Cairo, Egypt  ---  
+🧬 Research Assistant | Bioinformatics & Molecular Biology | Field Application Specialist - LifeTech Co. 📍 Cairo, Egypt
 ## 🔬 About Me 
 I am a bioinformatics researcher with hands-on experience in both **academic research** and **industry-oriented bioinformatics services**.
-My work focuses on analyzing high-throughput sequencing data, integrating wet-lab outputs with computational pipelines, and supporting research projects involving short-reads and long-read sequencing technologies.  ---  
+My work focuses on analyzing high-throughput sequencing data, integrating wet-lab outputs with computational pipelines, and supporting research projects involving short-reads and long-read sequencing technologies. 
 ## 🧠 Core Expertise  
 ### Bioinformatics & NGS Analysis 
 - Quality control of raw sequencing data (FastQC, MultiQC)
@@ -19,11 +19,11 @@ My work focuses on analyzing high-throughput sequencing data, integrating wet-la
 - DNA & RNA extraction
 - PCR and RT-qPCR
 - ISSR analysis
-- Wet-lab and computational workflow integration  ---  
+- Wet-lab and computational workflow integration  
 ## 🏭 Industry & Service Experience 
 **Bioinformatics Analysis Services** 
 - Performed QC, trimming, alignment, and mapping for real-world datasets in industry-oriented workflows (e.g., EVA Pharma).
-- Delivered reproducible pipelines and interpretable reports suitable for decision-making environments.  ---  
+- Delivered reproducible pipelines and interpretable reports suitable for decision-making environments.
 ## 🧬 Research Experience  
 ### Oxford Nanopore Long-Read Support 
 - Assisted MSc-level research using ONT long-read sequencing.
@@ -37,19 +37,12 @@ My work focuses on analyzing high-throughput sequencing data, integrating wet-la
 - Performed data preprocessing, normalization, and exploratory analysis.
 - Built and evaluated machine learning models (Logistic Regression, Random Forest, XGBoost) for disease state prediction.
 - Assessed model performance using ROC curves, AUC, F1-score, and feature importance analysis.
-- Extended previously published work by incorporating additional computational and predictive analyses.  ---  
-## 📂 Highlighted Repositories 
-**MetagenomicswithAI**
-- Bio Hackathon (SOLE) project
-**NGS Pipelines**
-- QC, trimming, alignment, and mapping workflows (service-based)
-**Bioinformatics-Roadmap**
-- Structured learning and workflow guide ---  
+- Extended previously published work by incorporating additional computational and predictive analyses. 
 ## 🛠 Tools & Technologies
 - **Languages:** Python, R, Bash
 - **Platforms:** Linux (Ubuntu), Google Colab
 - **NGS Tools:** FastQC, MultiQC, BWA, Minimap2, Trimmomatic
-- **Version Control:** Git, GitHub  ---  
+- **Version Control:** Git, GitHub
 ## 🏆 Achievements
 - Bronze Medalist, **SOLE Competition** (Science Opreation Leaders Egyptians) **National Competition**
 - Best Instructor – Summer Training Program
