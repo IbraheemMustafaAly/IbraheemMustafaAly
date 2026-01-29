@@ -41,9 +41,9 @@ My work focuses on analyzing high-throughput sequencing data, integrating wet-la
 ## 📂 Highlighted Repositories 
 **MetagenomicswithAI**
 - Bio Hackathon (SOLE) project
-**Bioinformatics-Roadmap**
+  **Bioinformatics-Roadmap**
 - Structured learning and workflow guide
-**NGS Pipelines**
+  **NGS Pipelines**
 - QC, trimming, alignment, and mapping workflows (service-based)  ---  
 ## 🛠 Tools & Technologies
 - **Languages:** Python, R, Bash
