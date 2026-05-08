@@ -17,8 +17,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/IbraheemMustafa11)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ibraheemmuustafa)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=IbraheemMustafaAly&icon=0&color=0)
-
 </div>
 
 ---
