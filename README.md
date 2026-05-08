@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Ibraheem%20Mustafa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20·%20Field%20Application%20Specialist%20·%20MSc%20Metagenomics&descAlignY=58&descSize=16&descColor=88ccff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Ibraheem%20Mustafa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20·%20Field%20Application%20Specialist%20·%20MSc%20Bioinformatics&descAlignY=58&descSize=16&descColor=88ccff"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🧬+From+FASTQ+to+Clinical+Insight;🦠+Metagenomics+%7C+WES+Pipelines+%7C+Variant+Calling;🤖+ML+in+Multi-Omics+%7C+Long-Read+Genomics;🔬+SARS-CoV-2+Genomics+%7C+Parkinson+Multi-Omics;📍+Cairo%2C+Egypt+%7C+LifeTech+Co.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🧬+From+FASTQ+to+Clinical+Insight;🦠+Metagenomics+%7C+WES+Pipelines+%7C+Variant+Calling;🤖+ML+in+Multi-Omics+%7C+Long-Read+Genomics;🔬+SARS-CoV-2+Genomics+%7C+Parkinson+Multi-Omics;📍+Cairo%2C+Egypt+%)](https://git.io/typing-svg)
 
 <br/>
 
