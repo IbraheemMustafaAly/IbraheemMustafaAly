@@ -31,7 +31,7 @@ I work at the intersection of computational biology and translational genomics �
 
 My background in **Agricultural Biotechnology** and hands-on wet lab experience give me an integrated view that most purely computational bioinformaticians lack. I understand both ends of the experiment: what happens at the bench, and what the terminal outputs mean.
 
-Currently pursuing my **MSc in Bioinformatics** at the University of Sadat City with a focus on **Metagenomics**, while working as a **Field Application Specialist at LifeTech Co.** — bridging research, industry, and clients.
+Currently pursuing my **MSc in Bioinformatics** at the University of Sadat City with a focus on **Metagenomics**, while working as a **Field Application Specialist** — bridging research, industry, and clients.
 
 > *"Bridging the bench and the terminal, one pipeline at a time."*
 
@@ -214,13 +214,13 @@ Delivered: Colab notebooks · R scripts · Full Word report with all embedded fi
 
 <br/>
 
-#### 💼 Industry Bioinformatics Services — EVA Pharma & Others
+#### 💼 Industry Bioinformatics Services
 > **Stack:** FastQC · MultiQC · Trimmomatic · BWA · SAMtools · Linux · bash
 
 - Delivered end-to-end NGS analysis for pharmaceutical and research clients
 - QC · trimming · alignment · mapping statistics · coverage analysis
 - Reproducible pipelines with interpretable reports for decision-making environments
-- Contributed to ISO 9001:2015 accredited workflows
+- Contributed to ISO 9001:2015 accredited workflows at Creative Egyptian Biotechnologists - CEB
 
 ---
 
@@ -294,7 +294,6 @@ Delivered: Colab notebooks · R scripts · Full Word report with all embedded fi
 | 🏅 Achievement | 📋 Details |
 |:---|:---|
 | 🥉 Bronze Medal | SOLE National Competition — MetagenomicsWithAI |
-| 🏆 Best Instructor | Summer Training Program in Bioinformatics |
 | ✅ ISO 9001:2015 | Contributor to accredited lab team |
 | 💰 STDF-Funded | Science & Technology Development Fund — Egypt |
 
@@ -302,17 +301,6 @@ Delivered: Colab notebooks · R scripts · Full Word report with all embedded fi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IbraheemMustafaAly&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbraheemMustafaAly&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-
-
-</div>
-
----
 
 <div align="center">
 
