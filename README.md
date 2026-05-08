@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🧬+From+FASTQ+to+Clinical+Insight;🦠+Metagenomics+%7C+WES+Pipelines+%7C+Variant+Calling;🤖+ML+in+Multi-Omics+%7C+Long-Read+Genomics;🔬+SARS-CoV-2+Genomics+%7C+Parkinson+Multi-Omics;📍+Cairo%2C+Egypt+%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🧬+From+FASTQ+to+Clinical+Insight;🦠+Metagenomics+%7C+WES+Pipelines+%7C+Variant+Calling;🤖+ML+in+Multi-Omics+%7C+Long-Read+Genomics;🔬+SARS-CoV-2+Genomics+%7C+Parkinson+Multi-Omics;📍+Cairo%2C+Egypt+)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,8 +13,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibraheemmustafa52@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/IbraheemMustafa11)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ibraheemmuustafa)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=IbraheemMustafaAly&icon=6&color=6)
 
 </div>
 
@@ -311,9 +309,6 @@ Delivered: Colab notebooks · R scripts · Full Word report with all embedded fi
 <img src="https://github-readme-stats.vercel.app/api?username=IbraheemMustafaAly&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbraheemMustafaAly&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 
-<br/>
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=IbraheemMustafaAly&theme=tokyonight&hide_border=true)
 
 </div>
 
