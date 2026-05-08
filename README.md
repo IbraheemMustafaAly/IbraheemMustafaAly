@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" alt="DNA Animation" width="320" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-
 ## 👨‍🔬 About Me
 
 ```python
@@ -35,8 +33,6 @@ ibraheem = {
     "quote"    : "Bridging the bench and the terminal, one pipeline at a time."
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -83,31 +79,24 @@ ibraheem = {
 
 ## 🚀 Projects
 
-<details open>
-<summary><b>🟢 Active Projects</b></summary>
+### 🟢 Active
 
-<br/>
-
-### 🧬 WES-Style Variant Calling Pipeline
+#### 🧬 WES-Style Variant Calling Pipeline
 > **Stack:** Ubuntu 24.04 · conda · BWA-MEM · SAMtools · GATK4 · Franklin by Genoox
 
 Full clinical-grade pipeline built from scratch:
+
 `Raw FASTQ` → `Trimming` → `Alignment (BWA-MEM)` → `BAM Processing (SAMtools)` → `Variant Calling (GATK HaplotypeCaller)` → `VCF Filtering` → `Clinical Annotation (Franklin)`
 
 - Built on local machine (i5-4200M · 6GB RAM · Ubuntu 24.04) under resource constraints
 - End-to-end variant interpretation including ACMG classification criteria
 - Designed as a learning framework for clinical genomics workflows
 
-</details>
-
 ---
 
-<details open>
-<summary><b>✅ Completed Projects</b></summary>
+### ✅ Completed
 
-<br/>
-
-### 🦠 Gut Microbiome of *Spodoptera littoralis* *(MSc Collaboration — Dr. Gehad)*
+#### 🦠 Gut Microbiome of *Spodoptera littoralis* *(MSc Collaboration — Dr. Gehad)*
 > **Stack:** QIIME2 · Galaxy · R (phyloseq · vegan · DESeq2) · Python (NetworkX) · Tax4Fun2 · LEfSe · Random Forest
 
 16S rRNA amplicon sequencing study across two biological subsets:
@@ -123,9 +112,9 @@ Full analytical pipeline:
 - Random Forest classification of microbial communities
 - Delivered: Colab notebooks · R scripts · full Word report with embedded figures
 
----
+<br/>
 
-### 🧬 HBV Multi-Omics Machine Learning Project
+#### 🧬 HBV Multi-Omics Machine Learning Project
 > **Stack:** Python · scikit-learn · XGBoost · Random Forest · Logistic Regression · pandas · matplotlib
 
 - Integrated cytokine expression + miRNA profiles from HBV patients
@@ -134,35 +123,33 @@ Full analytical pipeline:
 - ROC/AUC benchmarking · F1-score · Feature importance analysis
 - Extended previously published analyses with novel computational insights
 
----
+<br/>
 
-### 🤖 MetagenomicsWithAI — SOLE Bio Hackathon *(🥉 Bronze Medal)*
+#### 🤖 MetagenomicsWithAI — SOLE Bio Hackathon *(🥉 Bronze Medal)*
 > **Stack:** Python · Random Forest · XGBoost · LightGBM · Nile University
 
 - AI-driven metagenomics pipeline developed under competitive, time-constrained conditions
 - Combined microbial community analysis with ML classification models
 - Competed nationally at the SOLE (Science Operation Leaders Egyptians) competition
 
----
+<br/>
 
-### 🔬 Oxford Nanopore Long-Read Sequencing Support *(MSc Research Assistance)*
+#### 🔬 Oxford Nanopore Long-Read Sequencing Support *(MSc Research Assistance)*
 > **Stack:** Minimap2 · SAMtools · Linux · ONT toolchain
 
 - Supported MSc-level research using Oxford Nanopore Technology long-read sequencing
 - Long-read preprocessing, alignment, mapping statistics, and biological interpretation
 - Bridged wet-lab sequencing output with downstream computational analysis
 
----
+<br/>
 
-### 💼 Industry Bioinformatics Services — EVA Pharma & Others
+#### 💼 Industry Bioinformatics Services — EVA Pharma & Others
 > **Stack:** FastQC · MultiQC · Trimmomatic · BWA · SAMtools · Linux · bash
 
 - Delivered end-to-end NGS analysis services for pharmaceutical and research clients
 - QC · trimming · alignment · mapping statistics · coverage analysis
 - Produced reproducible pipelines with interpretable reports suitable for decision-making environments
 - Contributed to ISO 9001:2015 accredited workflows
-
-</details>
 
 ---
 
